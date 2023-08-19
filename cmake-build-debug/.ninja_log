@@ -1,0 +1,6 @@
+# ninja log v5
+0	165	1692440592975750280	CMakeFiles/CppCode.dir/LeetCode/kthMinNum.cpp.o	3db0c71d2540bfb
+0	263	1692440593073392458	CMakeFiles/CppCode.dir/LeetCode/main.cpp.o	97a03d4aa3dab66
+263	292	1692440593103960401	CppCode	b080c48f5f1cc028
+3	129	1692440778923564968	CMakeFiles/CppCode.dir/LeetCode/kthMinNum.cpp.o	3db0c71d2540bfb
+130	160	1692440778954780371	CppCode	b080c48f5f1cc028
