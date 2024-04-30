@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "CppCode::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-CppCode-Debug-4fa980ad5f51a7e08fe4.json",
+					"jsonFile" : "target-CppCode-Debug-96642bed9f48cec3581f.json",
 					"name" : "CppCode",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/puppybala/CppCode/cmake-build-debug",
-		"source" : "/Users/puppybala/CppCode"
+		"build" : "/Users/puppy/CppCode/cmake-build-debug",
+		"source" : "/Users/puppy/CppCode"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 6
 	}
 }

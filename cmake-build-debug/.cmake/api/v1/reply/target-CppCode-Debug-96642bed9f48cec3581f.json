@@ -42,14 +42,14 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -fcolor-diagnostics"
+					"fragment" : "-g -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 2,
-					"path" : "/Users/puppybala/CppCode/LeetCode"
+					"path" : "/Users/puppy/CppCode/LeetCode"
 				}
 			],
 			"language" : "CXX",
@@ -64,7 +64,8 @@
 			"sourceIndexes" : 
 			[
 				0,
-				2
+				2,
+				3
 			]
 		}
 	],
@@ -98,7 +99,8 @@
 			"sourceIndexes" : 
 			[
 				0,
-				2
+				2,
+				3
 			]
 		},
 		{
@@ -126,6 +128,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "LeetCode/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Huawei/test.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

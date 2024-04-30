@@ -8,4 +8,5 @@ include_directories(LeetCode)
 add_executable(CppCode
         LeetCode/kthMinNum.cpp
         LeetCode/kthMinNum.h
-        LeetCode/main.cpp)
+        LeetCode/main.cpp
+        Huawei/test.cpp)

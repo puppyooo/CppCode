@@ -21,6 +21,7 @@ int kthMinNum::randomPartition(std::vector<int> &nums, int l, int r) {
 
 int kthMinNum::partition(std::vector<int> &nums, int l, int r) {
     int x = nums[r], i = l - 1;
+    int a = 5;
     for (int j = l; j < r; ++j) {
         if (nums[j] <= x) {
             std::swap(nums[++i], nums[j]);
