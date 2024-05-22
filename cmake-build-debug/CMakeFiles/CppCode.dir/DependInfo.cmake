@@ -10,8 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/Users/puppy/CppCode/Huawei/test.cpp" "CMakeFiles/CppCode.dir/Huawei/test.cpp.o" "gcc" "CMakeFiles/CppCode.dir/Huawei/test.cpp.o.d"
   "/Users/puppy/CppCode/LeetCode/kthMinNum.cpp" "CMakeFiles/CppCode.dir/LeetCode/kthMinNum.cpp.o" "gcc" "CMakeFiles/CppCode.dir/LeetCode/kthMinNum.cpp.o.d"
-  "/Users/puppy/CppCode/LeetCode/main.cpp" "CMakeFiles/CppCode.dir/LeetCode/main.cpp.o" "gcc" "CMakeFiles/CppCode.dir/LeetCode/main.cpp.o.d"
-  "/Users/puppy/CppCode/mystl/main.cpp" "CMakeFiles/CppCode.dir/mystl/main.cpp.o" "gcc" "CMakeFiles/CppCode.dir/mystl/main.cpp.o.d"
+  "/Users/puppy/CppCode/main.cpp" "CMakeFiles/CppCode.dir/main.cpp.o" "gcc" "CMakeFiles/CppCode.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

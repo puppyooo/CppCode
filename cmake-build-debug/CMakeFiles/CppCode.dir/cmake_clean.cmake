@@ -3,10 +3,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/CppCode.dir/Huawei/test.cpp.o.d"
   "CMakeFiles/CppCode.dir/LeetCode/kthMinNum.cpp.o"
   "CMakeFiles/CppCode.dir/LeetCode/kthMinNum.cpp.o.d"
-  "CMakeFiles/CppCode.dir/LeetCode/main.cpp.o"
-  "CMakeFiles/CppCode.dir/LeetCode/main.cpp.o.d"
-  "CMakeFiles/CppCode.dir/mystl/main.cpp.o"
-  "CMakeFiles/CppCode.dir/mystl/main.cpp.o.d"
+  "CMakeFiles/CppCode.dir/main.cpp.o"
+  "CMakeFiles/CppCode.dir/main.cpp.o.d"
   "CppCode"
   "CppCode.pdb"
 )

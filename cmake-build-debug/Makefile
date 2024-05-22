@@ -177,53 +177,29 @@ LeetCode/kthMinNum.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/LeetCode/kthMinNum.cpp.s
 .PHONY : LeetCode/kthMinNum.cpp.s
 
-LeetCode/main.o: LeetCode/main.cpp.o
-.PHONY : LeetCode/main.o
+main.o: main.cpp.o
+.PHONY : main.o
 
 # target to build an object file
-LeetCode/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/LeetCode/main.cpp.o
-.PHONY : LeetCode/main.cpp.o
+main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/main.cpp.o
+.PHONY : main.cpp.o
 
-LeetCode/main.i: LeetCode/main.cpp.i
-.PHONY : LeetCode/main.i
-
-# target to preprocess a source file
-LeetCode/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/LeetCode/main.cpp.i
-.PHONY : LeetCode/main.cpp.i
-
-LeetCode/main.s: LeetCode/main.cpp.s
-.PHONY : LeetCode/main.s
-
-# target to generate assembly for a file
-LeetCode/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/LeetCode/main.cpp.s
-.PHONY : LeetCode/main.cpp.s
-
-mystl/main.o: mystl/main.cpp.o
-.PHONY : mystl/main.o
-
-# target to build an object file
-mystl/main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/mystl/main.cpp.o
-.PHONY : mystl/main.cpp.o
-
-mystl/main.i: mystl/main.cpp.i
-.PHONY : mystl/main.i
+main.i: main.cpp.i
+.PHONY : main.i
 
 # target to preprocess a source file
-mystl/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/mystl/main.cpp.i
-.PHONY : mystl/main.cpp.i
+main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/main.cpp.i
+.PHONY : main.cpp.i
 
-mystl/main.s: mystl/main.cpp.s
-.PHONY : mystl/main.s
+main.s: main.cpp.s
+.PHONY : main.s
 
 # target to generate assembly for a file
-mystl/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/mystl/main.cpp.s
-.PHONY : mystl/main.cpp.s
+main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/main.cpp.s
+.PHONY : main.cpp.s
 
 # Help Target
 help:
@@ -240,12 +216,9 @@ help:
 	@echo "... LeetCode/kthMinNum.o"
 	@echo "... LeetCode/kthMinNum.i"
 	@echo "... LeetCode/kthMinNum.s"
-	@echo "... LeetCode/main.o"
-	@echo "... LeetCode/main.i"
-	@echo "... LeetCode/main.s"
-	@echo "... mystl/main.o"
-	@echo "... mystl/main.i"
-	@echo "... mystl/main.s"
+	@echo "... main.o"
+	@echo "... main.i"
+	@echo "... main.s"
 .PHONY : help
 
 

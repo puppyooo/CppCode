@@ -48,7 +48,6 @@ struct char_traits
 
   static char_type* copy(char_type* dst, const char_type* src, size_t n)
   {
-    MYSTL_DEBUG(src + n <= dst || dst + n <= src);
     char_type* r = dst;
     for (; n != 0; --n, ++dst, ++src)
       *dst = *src;

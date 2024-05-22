@@ -83,19 +83,19 @@ CMakeFiles/CppCode.dir/LeetCode/kthMinNum.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CppCode.dir/LeetCode/kthMinNum.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/puppy/CppCode/LeetCode/kthMinNum.cpp -o CMakeFiles/CppCode.dir/LeetCode/kthMinNum.cpp.s
 
-CMakeFiles/CppCode.dir/LeetCode/main.cpp.o: CMakeFiles/CppCode.dir/flags.make
-CMakeFiles/CppCode.dir/LeetCode/main.cpp.o: /Users/puppy/CppCode/LeetCode/main.cpp
-CMakeFiles/CppCode.dir/LeetCode/main.cpp.o: CMakeFiles/CppCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/puppy/CppCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CppCode.dir/LeetCode/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CppCode.dir/LeetCode/main.cpp.o -MF CMakeFiles/CppCode.dir/LeetCode/main.cpp.o.d -o CMakeFiles/CppCode.dir/LeetCode/main.cpp.o -c /Users/puppy/CppCode/LeetCode/main.cpp
+CMakeFiles/CppCode.dir/main.cpp.o: CMakeFiles/CppCode.dir/flags.make
+CMakeFiles/CppCode.dir/main.cpp.o: /Users/puppy/CppCode/main.cpp
+CMakeFiles/CppCode.dir/main.cpp.o: CMakeFiles/CppCode.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/puppy/CppCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CppCode.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CppCode.dir/main.cpp.o -MF CMakeFiles/CppCode.dir/main.cpp.o.d -o CMakeFiles/CppCode.dir/main.cpp.o -c /Users/puppy/CppCode/main.cpp
 
-CMakeFiles/CppCode.dir/LeetCode/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CppCode.dir/LeetCode/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/puppy/CppCode/LeetCode/main.cpp > CMakeFiles/CppCode.dir/LeetCode/main.cpp.i
+CMakeFiles/CppCode.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CppCode.dir/main.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/puppy/CppCode/main.cpp > CMakeFiles/CppCode.dir/main.cpp.i
 
-CMakeFiles/CppCode.dir/LeetCode/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CppCode.dir/LeetCode/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/puppy/CppCode/LeetCode/main.cpp -o CMakeFiles/CppCode.dir/LeetCode/main.cpp.s
+CMakeFiles/CppCode.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CppCode.dir/main.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/puppy/CppCode/main.cpp -o CMakeFiles/CppCode.dir/main.cpp.s
 
 CMakeFiles/CppCode.dir/Huawei/test.cpp.o: CMakeFiles/CppCode.dir/flags.make
 CMakeFiles/CppCode.dir/Huawei/test.cpp.o: /Users/puppy/CppCode/Huawei/test.cpp
@@ -111,37 +111,21 @@ CMakeFiles/CppCode.dir/Huawei/test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CppCode.dir/Huawei/test.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/puppy/CppCode/Huawei/test.cpp -o CMakeFiles/CppCode.dir/Huawei/test.cpp.s
 
-CMakeFiles/CppCode.dir/mystl/main.cpp.o: CMakeFiles/CppCode.dir/flags.make
-CMakeFiles/CppCode.dir/mystl/main.cpp.o: /Users/puppy/CppCode/mystl/main.cpp
-CMakeFiles/CppCode.dir/mystl/main.cpp.o: CMakeFiles/CppCode.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/puppy/CppCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CppCode.dir/mystl/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CppCode.dir/mystl/main.cpp.o -MF CMakeFiles/CppCode.dir/mystl/main.cpp.o.d -o CMakeFiles/CppCode.dir/mystl/main.cpp.o -c /Users/puppy/CppCode/mystl/main.cpp
-
-CMakeFiles/CppCode.dir/mystl/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/CppCode.dir/mystl/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/puppy/CppCode/mystl/main.cpp > CMakeFiles/CppCode.dir/mystl/main.cpp.i
-
-CMakeFiles/CppCode.dir/mystl/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/CppCode.dir/mystl/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/puppy/CppCode/mystl/main.cpp -o CMakeFiles/CppCode.dir/mystl/main.cpp.s
-
 # Object files for target CppCode
 CppCode_OBJECTS = \
 "CMakeFiles/CppCode.dir/LeetCode/kthMinNum.cpp.o" \
-"CMakeFiles/CppCode.dir/LeetCode/main.cpp.o" \
-"CMakeFiles/CppCode.dir/Huawei/test.cpp.o" \
-"CMakeFiles/CppCode.dir/mystl/main.cpp.o"
+"CMakeFiles/CppCode.dir/main.cpp.o" \
+"CMakeFiles/CppCode.dir/Huawei/test.cpp.o"
 
 # External object files for target CppCode
 CppCode_EXTERNAL_OBJECTS =
 
 CppCode: CMakeFiles/CppCode.dir/LeetCode/kthMinNum.cpp.o
-CppCode: CMakeFiles/CppCode.dir/LeetCode/main.cpp.o
+CppCode: CMakeFiles/CppCode.dir/main.cpp.o
 CppCode: CMakeFiles/CppCode.dir/Huawei/test.cpp.o
-CppCode: CMakeFiles/CppCode.dir/mystl/main.cpp.o
 CppCode: CMakeFiles/CppCode.dir/build.make
 CppCode: CMakeFiles/CppCode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/puppy/CppCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable CppCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/puppy/CppCode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable CppCode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CppCode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -89,7 +89,7 @@
 		<Unit filename="/Users/puppy/CppCode/LeetCode/kthMinNum.h">
 			<Option target="CppCode"/>
 		</Unit>
-		<Unit filename="/Users/puppy/CppCode/LeetCode/main.cpp">
+		<Unit filename="/Users/puppy/CppCode/main.cpp">
 			<Option target="CppCode"/>
 		</Unit>
 		<Unit filename="/Users/puppy/CppCode/mystl/algobase.h">
@@ -111,9 +111,6 @@
 			<Option target="CppCode"/>
 		</Unit>
 		<Unit filename="/Users/puppy/CppCode/mystl/iterator.h">
-			<Option target="CppCode"/>
-		</Unit>
-		<Unit filename="/Users/puppy/CppCode/mystl/main.cpp">
 			<Option target="CppCode"/>
 		</Unit>
 		<Unit filename="/Users/puppy/CppCode/mystl/memory.h">

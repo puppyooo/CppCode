@@ -7,6 +7,7 @@
 
 // 迭代器设计 包含一些模版结构和全局函数
 #include <cstddef>
+#include <iostream>
 #include "type_traits.h"
 
 namespace mystl {
@@ -102,7 +103,7 @@ namespace mystl {
     struct is_random_access_iterator : public has_iterator_cat_of<Iter, random_access_iterator_tag>{};
 
     template <class Iterator>
-    struct is_iterator : public has_iterator_cat_of<is_input_iterator<Iterator>::value || is_output_iterator<Iterator>::value>{};
+    struct is_iterator : public m_bool_constant<is_input_iterator<Iterator>::value || is_output_iterator<Iterator>::value>{};
 
     //萃取某个迭代器的category
     template <class Iterator>
@@ -110,6 +111,9 @@ namespace mystl {
     iterator_category(const Iterator&) {
         typedef typename iterator_traits<Iterator>::iterator_category Category;
         return Category();
+    }
+    void printx(const mystl::random_access_iterator_tag&) noexcept{
+        std::cout<<"random"<<std::endl;
     }
 
     // 萃取某个迭代器的distance_type
