@@ -9,4 +9,9 @@ add_executable(CppCode
         LeetCode/kthMinNum.cpp
         LeetCode/kthMinNum.h
         LeetCode/main.cpp
-        Huawei/test.cpp)
+        Huawei/test.cpp
+        mystl/construct.h
+        mystl/type_traits.h
+        mystl/iterator.h
+        mystl/numeric.h
+        mystl/util.h)

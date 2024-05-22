@@ -7,11 +7,11 @@ using namespace std;
 
 int main() {
     vector<int> nums = {3, 2, 1, 5, 6, 4};
-    kthMinNum kthMinNum;
-    int x, y;
-    scanf("%d%d", &x, &y);
-    printf("%d\n%d\n", y, x);
-    cout << kthMinNum.findKthLargest(nums, 2) << endl; // out
+
+    for (auto iter = nums.begin(); iter != nums.end(); iter++) {
+        std::cout << *iter << std::endl;
+    }
+
     cout << "Hello, World!" << endl;
     return 0;
 }

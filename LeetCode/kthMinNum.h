@@ -5,7 +5,6 @@
 #ifndef CPPCODE_KTHMINNUM_H
 #define CPPCODE_KTHMINNUM_H
 #include "vector"
-
 class kthMinNum {
 public :
     int quickSelect(std::vector<int>& nums, int l, int r, int k);
