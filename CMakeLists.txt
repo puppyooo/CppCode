@@ -14,4 +14,10 @@ add_executable(CppCode
         mystl/type_traits.h
         mystl/iterator.h
         mystl/numeric.h
-        mystl/util.h)
+        mystl/util.h
+        mystl/exceptdef.h
+        mystl/astring.h
+        mystl/basic_string.h
+        mystl/memory.h
+        mystl/functional.h
+        mystl/algobase.h)

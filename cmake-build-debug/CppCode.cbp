@@ -92,10 +92,28 @@
 		<Unit filename="/Users/puppy/CppCode/LeetCode/main.cpp">
 			<Option target="CppCode"/>
 		</Unit>
+		<Unit filename="/Users/puppy/CppCode/mystl/algobase.h">
+			<Option target="CppCode"/>
+		</Unit>
+		<Unit filename="/Users/puppy/CppCode/mystl/astring.h">
+			<Option target="CppCode"/>
+		</Unit>
+		<Unit filename="/Users/puppy/CppCode/mystl/basic_string.h">
+			<Option target="CppCode"/>
+		</Unit>
 		<Unit filename="/Users/puppy/CppCode/mystl/construct.h">
 			<Option target="CppCode"/>
 		</Unit>
+		<Unit filename="/Users/puppy/CppCode/mystl/exceptdef.h">
+			<Option target="CppCode"/>
+		</Unit>
+		<Unit filename="/Users/puppy/CppCode/mystl/functional.h">
+			<Option target="CppCode"/>
+		</Unit>
 		<Unit filename="/Users/puppy/CppCode/mystl/iterator.h">
+			<Option target="CppCode"/>
+		</Unit>
+		<Unit filename="/Users/puppy/CppCode/mystl/memory.h">
 			<Option target="CppCode"/>
 		</Unit>
 		<Unit filename="/Users/puppy/CppCode/mystl/numeric.h">
