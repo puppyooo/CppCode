@@ -1,7 +1,7 @@
 //
 // Created by puppybala on 2023.08.19.
 //
-#include "kthMinNum.h"
+#include "LeetCode/kthMinNum.h"
 #include <iostream>
 using namespace std;
 

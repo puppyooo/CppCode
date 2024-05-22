@@ -201,6 +201,30 @@ LeetCode/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/LeetCode/main.cpp.s
 .PHONY : LeetCode/main.cpp.s
 
+mystl/main.o: mystl/main.cpp.o
+.PHONY : mystl/main.o
+
+# target to build an object file
+mystl/main.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/mystl/main.cpp.o
+.PHONY : mystl/main.cpp.o
+
+mystl/main.i: mystl/main.cpp.i
+.PHONY : mystl/main.i
+
+# target to preprocess a source file
+mystl/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/mystl/main.cpp.i
+.PHONY : mystl/main.cpp.i
+
+mystl/main.s: mystl/main.cpp.s
+.PHONY : mystl/main.s
+
+# target to generate assembly for a file
+mystl/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/mystl/main.cpp.s
+.PHONY : mystl/main.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -219,6 +243,9 @@ help:
 	@echo "... LeetCode/main.o"
 	@echo "... LeetCode/main.i"
 	@echo "... LeetCode/main.s"
+	@echo "... mystl/main.o"
+	@echo "... mystl/main.i"
+	@echo "... mystl/main.s"
 .PHONY : help
 
 

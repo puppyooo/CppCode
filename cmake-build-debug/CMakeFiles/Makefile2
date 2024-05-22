@@ -81,12 +81,12 @@ clean: CMakeFiles/CppCode.dir/clean
 CMakeFiles/CppCode.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/CppCode.dir/build.make CMakeFiles/CppCode.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/puppy/CppCode/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target CppCode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/Users/puppy/CppCode/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4,5 "Built target CppCode"
 .PHONY : CMakeFiles/CppCode.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CppCode.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/puppy/CppCode/cmake-build-debug/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/puppy/CppCode/cmake-build-debug/CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/CppCode.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/puppy/CppCode/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/CppCode.dir/rule
